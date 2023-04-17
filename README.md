@@ -1,11 +1,11 @@
 # Disaster Response Pipeline,ETL,ML
 
 ## Table for Contents
-1. [installation](https://github.com/mmohammad11/project1/edit/main/README.md#installation)
-2. [Motivation](https://github.com/mmohammad11/project1/edit/main/README.md#motivation)
-3. [File Describtion](https://github.com/mmohammad11/project1/edit/main/README.md#file-describtion)
-4. [Requirements](https://github.com/mmohammad11/project1/edit/main/README.md#requirements)
-5. [Licensing](https://github.com/mmohammad11/project1/edit/main/README.md#licensing)
+1. [installation](#installation)
+2. [Motivation](#motivation)
+3. [File Describtion](#file-describtion)
+4. [Requirements](#requirements)
+5. [Licensing](#licensing)
 
 ### Installation
 1. numpy
