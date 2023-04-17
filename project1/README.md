@@ -67,5 +67,12 @@ The wep app will extract data from database to provide data visulization, and us
 <img src="https://user-images.githubusercontent.com/122842788/232375018-4025c471-04ee-47a2-93f1-2cfcc6d5500c.png">
 <img src="https://user-images.githubusercontent.com/122842788/232375080-ddbcc9dc-53f6-43ea-8d07-65a9ece7f765.png">
 
+### How to run the web app
+
+1. Run ETL pipeline that clean and save the data in database `python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db`
+2. To run ML pipeline that trains classifier and saves `python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl`
+3. Run web app: `python run.py` in app dicrectory
+4. open this link (http://0.0.0.0:3000/)
+
 ### Licensing
 This project was completed as a part of the Udacity data scientist nanodegree. 
