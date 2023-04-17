@@ -62,6 +62,10 @@ writes a ML pipeline that:
 3. Wep app 
 The wep app will extract data from database to provide data visulization, and use the model to classify new messages for 36 categories. The output are:
 
-<img src=""
+<img src="https://user-images.githubusercontent.com/122842788/232374746-5bfebfae-721c-4ecc-af6b-6a1b28f73504.png">
+<img src="https://user-images.githubusercontent.com/122842788/232374890-064bf883-f951-49fc-9427-599117f9b1d9.png">
+<img src="https://user-images.githubusercontent.com/122842788/232375018-4025c471-04ee-47a2-93f1-2cfcc6d5500c.png">
+<img src="https://user-images.githubusercontent.com/122842788/232375080-ddbcc9dc-53f6-43ea-8d07-65a9ece7f765.png">
 
 ### Licensing
+This project was completed as a part of the Udacity data scientist nanodegree. 
