@@ -75,4 +75,4 @@ The wep app will extract data from database to provide data visulization, and us
 4. open this link (http://0.0.0.0:3000/)
 
 ### Licensing
-This project was completed as a part of the Udacity data scientist nanodegree. 
+This project was completed as a part of the Udacity data scientist nanodegree. Thanks to Udacity for starter code for the web app.
