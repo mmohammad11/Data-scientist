@@ -27,7 +27,7 @@ There is one notebook here showing the answers to the questions asked and diagra
 
 ### Medium Blog Post
 
-The results have been published via the platform and are available here. [here](https://www.kaggle.com/datasets/schmoyote/coffee-reviews-dataset)
+The results have been published via the platform and are available [here](https://medium.com/@m7md.bin.fahad/questions-about-coffee-d0e47cfdb5ea).
 
 ### Licensing
 This project was completed as a part of the Udacity data scientist nanodegree.
